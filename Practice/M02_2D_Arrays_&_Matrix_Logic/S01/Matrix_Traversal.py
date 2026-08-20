@@ -1,4 +1,4 @@
-'''1572. Matrix Diagonal Sum
+l'''1572. Matrix Diagonal Sum
 class Solution:
     def diagonalSum(self, mat: List[List[int]]) -> int:
         n = len(mat)
